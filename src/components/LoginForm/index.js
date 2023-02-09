@@ -24,7 +24,7 @@ class LoginForm extends Component {
 
   }
   onteamMate = () =>{
-    this.setState({login:false})
+    this.setState({login  :false})
   }
 
 
